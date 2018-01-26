@@ -5,4 +5,4 @@
 - 3.acs 发送inform response
 - 4.cpe 发送一个空的http post
 - 5.acs 下发命令(GetParameterNames/GetParameterValues/Download/Upload/Reboot 等等)
-- 6.cpe接收到acs下发的指令,解析xml数据.进行相应的reponse
+- 6.cpe接收到acs下发的指令,解析xml数据.进行相应的response
